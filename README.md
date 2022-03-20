@@ -2,4 +2,4 @@
 
 - 🔭 I’m graduated from UNSW.
 - 🌱 I’m currently learning artificial intelligence.
-- 📫 How to reach me: [@JYRoy](jyroooy@163.com)
+- 📫 How to reach me: jyroooy@163.com
